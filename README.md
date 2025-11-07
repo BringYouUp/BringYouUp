@@ -30,9 +30,7 @@
 <h2>Projects</h2>
 
 <p><b>💰 Extended Fitness Tracker 🕑 (In process)</b></p>
-<a target="_blank" href="https://github.com/BringYouUp/fitness-tracker-frontent">📝 Repo[FRONTEND] 📝</a>
-<br />
-<a target="_blank" href="https://github.com/BringYouUp/fitness-tracker-backend">📝 Repo[BACKEND] 📝</a>
+<a target="_blank" href="https://github.com/BringYouUp/fitness-tracker">📝 Repo 📝</a>
 <br />
 <a target="_blank" href="https://extended-fitness-tracker-ng.web.app/?tab=home">🔗 Link 🔗</a>
 <hr />
